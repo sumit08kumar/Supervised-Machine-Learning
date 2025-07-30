@@ -8,7 +8,6 @@ This is a simple web application that translates text from one language to anoth
 * **Frontend**: HTML, CSS, Bootstrap
 * **Backend**: Python, Flask
 * **API**: IBM Watson Language Translator
-* **Deployment**: Heroku
 
 ---
 
@@ -17,7 +16,7 @@ This is a simple web application that translates text from one language to anoth
 * Translate text between multiple languages
 * Clean and simple UI
 * Uses IBM Watson for high-quality translations
-* Easy deployment on Heroku
+* Easy deployment on Heroku/Streamlit
 
 ---
 
